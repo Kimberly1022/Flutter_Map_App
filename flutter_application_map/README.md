@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# flutter_map_app_
-=======
+
 # flutter_map_app
->>>>>>> 11a66e69677db0be1c6e881c9830228f2b184754
+
 
 Aplicación que acepta coordenadas y muestra ubicación
 
